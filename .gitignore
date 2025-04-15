@@ -1,0 +1,16 @@
+.DS_Store
+.Rhistory
+data/*.csv
+data/*.zip
+outputs/*.csv
+outputs/*.geojson
+data/.DS_Store
+data/.Rhistory
+.DS_Store
+.Rhistory
+data/*.csv
+data/*.zip
+outputs/*.csv
+outputs/*.geojson
+data/.DS_Store
+data/.Rhistory
