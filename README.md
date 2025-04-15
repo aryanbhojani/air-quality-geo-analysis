@@ -1,4 +1,4 @@
-# Air‑Quality Geospatial Analysis (USA 2024)
+# Air Quality Geospatial Analysis (USA 2024)
 
 Python • GeoPandas • Folium • ArcGIS Online
 
