@@ -8,7 +8,8 @@ density** to map air‑quality hotspots across 50 U.S. metros.
 ---
 
 ## Interactive map  
-https://ucsb.maps.arcgis.com/apps/mapviewer/index.html?webmap=f6ecfc63b55a437abc3a69f6389566ec
+[View the interactive ArcGIS Map](https://ucsb.maps.arcgis.com/apps/mapviewer/index.html?webmap=f6ecfc63b55a437abc3a69f6389566ec)
+
 
 ---
 
