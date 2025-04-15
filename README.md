@@ -3,7 +3,7 @@
 Python • GeoPandas • Folium • ArcGIS Online
 
 Pipeline that blends **PM2.5**, **daily CO₂**, and **EPA TRI industrial‑facility
-density** to map air‑quality hotspots across 50 U.S. metros.
+density** to map air‑quality hotspots across different U.S cities.
 
 ---
 
